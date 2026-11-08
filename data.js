@@ -21,31 +21,31 @@
    --------------------------------------------------------------------- */
 const PENGHUNI = [
   {
-    nama: "SUPERNGANGA",
-    kampus: "UADEH",
-    jurusan: "Kedokteran",
-    angkatan: 2026,
-    asal: "Tanah Bumbu",
-    kamar: "President Suite",
-    foto: "images/penghuni/abay.jpg"
-  },
-  {
-    nama: "Contoh Penghuni 2",
-    kampus: "UNY",
-    jurusan: "Pendidikan Matematika",
+    nama: "Adrian Alwy Ramadhan",
+    kampus: "Universitas Mercu Buana Yogyakarta",
+    jurusan: "Psikologi",
     angkatan: 2024,
-    asal: "Barabai",
+    asal: "Batulicin",
     kamar: "",
-    foto: ""
+    foto: "images/penghuni/abay.png"
   },
   {
-    nama: "Contoh Penghuni 3",
-    kampus: "UIN Sunan Kalijaga",
-    jurusan: "Ilmu Hukum",
+    nama: "Fayyaz  Zihni Rasyidi",
+    kampus: "Universitas Ahmad Dahlan Yogyakarta",
+    jurusan: "Akuntansi",
     angkatan: 2022,
-    asal: "Martapura",
+    asal: "Tanah Bumbu",
     kamar: "",
-    foto: ""
+    foto: "images/penghuni/fayas.png"
+  },
+  {
+    nama: "Andi Fardiaz AKbar",
+    kampus: "Universitas Ahmad Dahlan Yogyakarta",
+    jurusan: "Informatika",
+    angkatan: 2022,
+    asal: "Tanah Bumbu",
+    kamar: "",
+    foto: "images/penghuni/depas.jpg"
   }
 ];
 
@@ -60,11 +60,11 @@ const PENGHUNI = [
    --------------------------------------------------------------------- */
 const KEGIATAN = [
   {
-    judul: "Gotong Royong Bersih Asrama",
-    tanggal: "2026-01-15",
+    judul: "Syukuran Wisuda Penghuni",
+    tanggal: "2026-10-31",
     kategori: "Kebersamaan",
-    deskripsi: "Penghuni bersama-sama membersihkan dan merapikan lingkungan asrama.",
-    foto: "images/kegiatan/gotong-royong.jpg"
+    deskripsi: "Syukuran dan doa bersama untuk penghuni yang diwisuda, sekaligus melepas mereka kembali ke Banua.",
+    foto: "images/kegiatan/wisuda.jpg"
   },
   {
     judul: "Penyambutan Mahasiswa Baru",
